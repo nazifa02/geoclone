@@ -13,4 +13,6 @@
 
 ## Features
 
--   TODO
+-   Generate random numbers
+
+![](https://info.alcoimpact.com/hs-fs/hubfs/Hurricane%20Safety/Saffir-Simpson%20Hurricane%20Scale.jpg?width=3453&name=Saffir-Simpson%20Hurricane%20Scale.jpg)
