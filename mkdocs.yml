@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/nazifa02/geoclone/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/random.ipynb
     - API Reference:
           - geoclone module: geoclone.md
           - common module: common.md
